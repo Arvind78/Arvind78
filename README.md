@@ -42,10 +42,12 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" alt="tailwindcss"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript"></code>
 <code><img height="27" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs"></code>
 <code><img height="27" src="https://cdn.worldvectorlogo.com/logos/remix.svg" alt="remix"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/vue/vue.png" alt="vuejs"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"></code>
 
 <code><img height="27" src="https://img.icons8.com/?size=100&id=yWJYgFcO1O8q&format=png&color=000000" alt="bun"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="expressjs"></code>
@@ -58,6 +60,8 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react-native"></code>
 <code> <img height="27" src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" alt="HAGPT"></code>
 <code><img height="27" src="https://img.icons8.com/?size=100&id=CE7FtcjlPLrE&format=png&color=000000" alt="ML"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Radis"></code>
+<code><img height="27" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka"></code>
 
 
 ### Projects and Dev Stuffs:
