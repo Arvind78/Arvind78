@@ -94,10 +94,7 @@ Like My Work?
 	</ul>
 </details>
 
-#
 
 <div align="center">
-
-### Support the repositories by starring them!
-
+🌟 Star Arvind78's Repositories 🌟
 </div>
