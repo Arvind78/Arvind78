@@ -1,5 +1,7 @@
 ## Hey there 👋, I'm [Arvind Varma !](https://github.com/Arvind78/)
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Arvind+Varma;Full-Stack+Web+Developer;Skilled+in+HTML%2C+CSS%2C+JavaScript;React%2C+Next.js%2C+Remix%2C+Tailwind+CSS;Node.js%2C+Express%2C+MongoDB%2C+MySQL;PostgreSQL%2C+Redis%2C+Kafka%2C+AWS%2C+Docker)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/)  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arvind-varma-884a7423a/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Arvind78.Arvind78&style=flat-square&color=0088cc)
